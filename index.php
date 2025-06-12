@@ -70,7 +70,7 @@
 
                                 // Display data
                                 echo "
-                                <h1><b>Item #: </b>{$array['name']}</h1>
+                                <h1><b>Item #: </b>{$array['Item']}</h1>
                                 <h2 class='$classStyleAlert'>Object Class: {$array['Class']}</h2>
                                 <p class='text-center'><img src='{$array['Image']}' class='img-fluid rounded shadow' alt='image of {$array['Item']}'></p>
                                 <div class='$classStyleBoarder'>
